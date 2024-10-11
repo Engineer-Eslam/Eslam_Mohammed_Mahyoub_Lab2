@@ -1,0 +1,11 @@
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\bin\Debug\إسلام محمد مهيوب المليكي محاضره2.exe.config
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\bin\Debug\إسلام محمد مهيوب المليكي محاضره2.exe
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\bin\Debug\إسلام محمد مهيوب المليكي محاضره2.pdb
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام محمد مهيوب المليكي محاضره2.csprojResolveAssemblyReference.cache
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام_محمد_مهيوب_المليكي_محاضره2.Form1.resources
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام_محمد_مهيوب_المليكي_محاضره2.Properties.Resources.resources
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام محمد مهيوب المليكي محاضره2.csproj.GenerateResource.Cache
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام محمد مهيوب المليكي محاضره2.exe
+c:\users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام محمد مهيوب المليكي محاضره2.pdb
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام_محمد_مهيوب_المليكي_محاضره2.Form2.resources
+C:\Users\eslam\documents\visual studio 2012\Projects\إسلام محمد مهيوب المليكي محاضره2\إسلام محمد مهيوب المليكي محاضره2\obj\Debug\إسلام_محمد_مهيوب_المليكي_محاضره2.lect2_in_form.resources
